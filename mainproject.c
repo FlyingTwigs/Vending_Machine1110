@@ -16,9 +16,6 @@
  * https://www.cuhk.edu.hk/policy/academichonesty/
  *
  * Student Name : Theodore Fabian Rudy
- * Student ID : 1155133167
- * Class/Section : ENGG1110/B
- * Date : 18/11/2019
  */
 
  // Formatting done by using codebeautify.org C formatter beautifier.
